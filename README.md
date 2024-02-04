@@ -15,5 +15,5 @@
 [Credit: SquidBowl](https://github.com/SquidBowl)
 
 --------------------------------------------------
-![]https://cdn.discordapp.com/attachments/1007387066159595581/1175159648509239337/image-7.png?ex=65cfbb35&is=65bd4635&hm=76c8da959554aa73e3f72231ebea804aee374d344edf0757145c22edb6b21b5f&
+![](https://cdn.discordapp.com/attachments/1007387066159595581/1175159648509239337/image-7.png?ex=65cfbb35&is=65bd4635&hm=76c8da959554aa73e3f72231ebea804aee374d344edf0757145c22edb6b21b5f&)
 
