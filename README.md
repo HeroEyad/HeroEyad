@@ -13,7 +13,8 @@
 * I will always ask for permission on if I can make mods open source before doing so.
 
 [Credit: SquidBowl](https://github.com/SquidBowl)
-
+-------------------------------------------------
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6K2H51)
 --------------------------------------------------
 ![](https://cdn.discordapp.com/attachments/1007387066159595581/1175159648509239337/image-7.png?ex=65cfbb35&is=65bd4635&hm=76c8da959554aa73e3f72231ebea804aee374d344edf0757145c22edb6b21b5f&)
 
