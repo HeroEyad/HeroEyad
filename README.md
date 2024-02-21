@@ -14,8 +14,7 @@
 
 [Credit: SquidBowl](https://github.com/SquidBowl)
 -------------------------------------------------
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6K2H51)  
-<a href="https://paypal.me/HElmokdem"><img src="paypal.svg" height="40"></a>  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6K2H51)  <a href="https://paypal.me/HElmokdem"><img src="paypal.svg" height="40"></a>  
 --------------------------------------------------
 ![](https://cdn.discordapp.com/attachments/1007387066159595581/1175159648509239337/image-7.png?ex=65cfbb35&is=65bd4635&hm=76c8da959554aa73e3f72231ebea804aee374d344edf0757145c22edb6b21b5f&)
 
