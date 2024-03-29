@@ -16,5 +16,5 @@
 -------------------------------------------------
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6K2H51)  <a href="https://paypal.me/HElmokdem"><img src="paypal.svg" height="40"></a>  
 --------------------------------------------------
-![](https://cdn.discordapp.com/attachments/1007387066159595581/1175546548470419478/Untitled1509_20231118211718.png?ex=65ecd309&is=65da5e09&hm=468641be654cc2499cb3ff8dab3acdf731e21646b1fe3d105918c1d0ca40e86e&)
+![]([https://cdn.discordapp.com/attachments/1124380753648685138/1223095395018870875/20240329_032401.jpg?ex=66189b5a&is=6606265a&hm=3180a7024f9271fa96bf08e93f4346abd25fefb1dedae7131f6cc894aacdf0ee&])
 
