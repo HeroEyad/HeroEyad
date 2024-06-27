@@ -14,7 +14,7 @@
 
 [Credit: SquidBowl](https://github.com/SquidBowl)
 -------------------------------------------------
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6K2H51)  <a href="https://paypal.me/HElmokdem"><img src="paypal.svg" height="40"></a>  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6K2H51)
 --------------------------------------------------
 ![](https://pbs.twimg.com/profile_banners/2418062057/1695131558/1080x360)
 
