@@ -1,6 +1,8 @@
 # I'm HeroEyad
 16 Year Old Dumbass Programmer from Egypt, I know JavaScript, Python, HTML, Haxe and Lua!
 
+![Hero's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroEyad&show_icons=true)
+
 ### My Socials
 * [Youtube](https://www.youtube.com/c/HeroEyad)
 * [Twitter](https://twitter.com/HeroEyad_)
