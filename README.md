@@ -3,6 +3,8 @@
 
 ![Hero's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroEyad&show_icons=true)
 
+![Top Languaes I Use.](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroEyad)
+
 ### My Socials
 * [Youtube](https://www.youtube.com/c/HeroEyad)
 * [Twitter](https://twitter.com/HeroEyad_)
