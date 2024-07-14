@@ -5,7 +5,7 @@
 
 ![Top Languaes I Use.](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroEyad)
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python,bootstrap)
 
 ### My Socials
 * [Youtube](https://www.youtube.com/c/HeroEyad)
