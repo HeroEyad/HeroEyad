@@ -11,7 +11,9 @@
 * [Youtube](https://www.youtube.com/c/HeroEyad)
 * [Twitter](https://twitter.com/HeroEyad_)
 * [Gamebanana](https://gamebanana.com/members/1826250)
-* [My New Website](https://heroeyad.github.io/)
+* [My New Website](https://heroeyad.straw.page/)
+* [My Old Website](https://heroeyad.github.io/)
+
 
 ## My Coding Guidelines
 * As long as the code is open-source, I don't mind you using it; though if you take one of my classes (the hx file), please be sure to credit me in the special thanks. 
