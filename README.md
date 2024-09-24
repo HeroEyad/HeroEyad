@@ -11,8 +11,7 @@
 * [Youtube](https://www.youtube.com/c/HeroEyad)
 * [Twitter](https://twitter.com/HeroEyad_)
 * [Gamebanana](https://gamebanana.com/members/1826250)
-* [My New Website](https://heroeyad.straw.page/)
-* [My Old Website](https://heroeyad.github.io/)
+* [My Website](https://heroeyad.xyz/)
 
 
 ## My Coding Guidelines
