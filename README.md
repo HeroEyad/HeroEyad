@@ -1,27 +1,50 @@
-# I'm HeroEyad
-17 Year Old Dumbass Programmer from Egypt!
+# HeroEyad
+
+### Egyptian Programmer!
+
+I'm just a programmer navigating the world of code and creativity. Check out my GitHub stats and see what I've been working on!
 
 ![Hero's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroEyad&show_icons=true)
 
-![Top Languaes I Use.](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroEyad)
+![Top Languages I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroEyad)
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python,bootstrap,discord,nodejs,vscode,github,cpp&perline=7)
 
-### My Socials
-* [Youtube](https://www.youtube.com/c/HeroEyad)
-* [Twitter](https://twitter.com/HeroEyad_)
-* [Gamebanana](https://gamebanana.com/members/1826250)
-* [My Website](https://heroeyad.xyz/)
+### 💫 About me!!!
+* 🏫 Just a `17` Year old in the `11th` grade.
+* 🌟 Goal is to achieve what is `Impossible` and make it `Possible` because it says `"I'm Possible"`.
 
+### 🌟 Connect with Me
 
-## My Coding Guidelines
-* As long as the code is open-source, I don't mind you using it; though if you take one of my classes (the hx file), please be sure to credit me in the special thanks. 
-* If you work on a mod with me with code that is supposed to be private/not used in other places, DO NOT! EVEN WITH CREDIT, I DO NOT CARE. I DO NOT FUCK W LEAKERS!
-* I will always ask for permission on if I can make mods open source before doing so.
+* [YouTube](https://www.youtube.com/c/HeroEyad) - Check out my tutorials and projects!
+* [Twitter](https://twitter.com/HeroEyad_) - Follow me for updates and thoughts on programming.
+* [GameBanana](https://gamebanana.com/members/1826250) - Explore my game mods and contributions.
+* [My Website](https://heroeyad.xyz/) - Visit my website!
 
-[Credit: SquidBowl](https://github.com/SquidBowl)
--------------------------------------------------
+### 💻 My Projects
+Here are a few projects I've been working on:
+- **[Funkin' Launcher](https://github.com/Funkin-Launcher-Team/FunkinLauncher)**: AIO FNF Manager to manage your Mods!
+- **[Hedgehog Chaos Demo!](https://github.com/HeroEyad/Hedgehog-Chaos-Demo)**: Brief description of the project and its purpose.
+- **[HeroEyad.xyz](https://heroeyad.xyz/)**: My cool new website!
+
+### 🎮 Interests
+- **Game Development**: Passionate about creating immersive experiences.
+- **Open Source Contribution**: I love collaborating with others and sharing knowledge.
+- **Coding Challenges**: Always up for a challenge to improve my skills!
+
+### 📝 My Coding Guidelines
+- **Open Source**: Feel free to use my open-source code! If you use one of my classes (the .hx file), just credit me in your special thanks.
+- **Privacy Matters**: If we work on a mod together and it's intended to be private, **DO NOT** share it, even with credit. I have zero tolerance for leaks!
+- **Ask First**: I always seek permission before making any mods open source.
+---
+
+### 💖 Support Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6K2H51)
---------------------------------------------------
-![](https://pbs.twimg.com/profile_banners/2418062057/1695131558/1080x360)
 
+---
+
+![Profile Banner](https://pbs.twimg.com/profile_banners/2418062057/1695131558/1080x360)
+
+---
+
+Feel free to customize the project names, descriptions, and any other part to reflect your personal style!
