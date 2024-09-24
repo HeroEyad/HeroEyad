@@ -44,7 +44,3 @@ Here are a few projects I've been working on:
 ---
 
 ![Profile Banner](https://pbs.twimg.com/profile_banners/2418062057/1695131558/1080x360)
-
----
-
-Feel free to customize the project names, descriptions, and any other part to reflect your personal style!
