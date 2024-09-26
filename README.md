@@ -22,9 +22,10 @@ I'm just a programmer navigating the world of code and creativity. Check out my 
 * [My Website](https://heroeyad.xyz/) - Visit my website!
 
 ### 💻 My Projects
-Here are a few projects I've been working on:
+Here are a few projects I've been working/worked on:
 - **[Funkin' Launcher](https://github.com/Funkin-Launcher-Team/FunkinLauncher)**: AIO FNF Manager to manage your Mods!
-- **[Hedgehog Chaos Demo!](https://github.com/HeroEyad/Hedgehog-Chaos-Demo)**: Brief description of the project and its purpose.
+- **[Rhythm Engine](https://github.com/MeguminBOT/Rhythm-Engine-Source)**: Helped with the Download Function!
+- **[Hedgehog Chaos Demo!](https://github.com/HeroEyad/Hedgehog-Chaos-Demo)**: Sonic Memes Mod
 - **[HeroEyad.xyz](https://heroeyad.xyz/)**: My cool new website!
 
 ### 🎮 Interests
