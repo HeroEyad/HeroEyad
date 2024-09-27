@@ -25,6 +25,7 @@ I'm just a programmer navigating the world of code and creativity. Check out my 
 Here are a few projects I've been working/worked on:
 - **[Funkin' Launcher](https://github.com/Funkin-Launcher-Team/FunkinLauncher)**: AIO FNF Manager to manage your Mods!
 - **[Rhythm Engine](https://github.com/MeguminBOT/Rhythm-Engine-Source)**: Helped with the Download Function!
+- **[hxFileManager](https://lib.haxe.org/p/hxFileManager/)**: A library that helps with File Management using FileSystem and Haxe/C++
 - **[Hedgehog Chaos Demo!](https://github.com/HeroEyad/Hedgehog-Chaos-Demo)**: Sonic Memes Mod
 - **[HeroEyad.xyz](https://heroeyad.xyz/)**: My cool new website!
 
