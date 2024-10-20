@@ -10,6 +10,8 @@ I'm just a programmer navigating the world of code and creativity. Check out my 
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python,bootstrap,discord,nodejs,vscode,github,cpp&perline=7)
 
+![](https://komarev.com/ghpvc/?username=HeroEyad)
+
 ![More!](https://github-readme-streak-stats.herokuapp.com/?user=HeroEyad&theme=dark)
 
 ### 💫 About me!!!
