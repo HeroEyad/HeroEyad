@@ -30,7 +30,7 @@ Here are a few projects I've been working/worked on:
 - **[Funkin' Launcher](https://github.com/Funkin-Launcher-Team/FunkinLauncher)**: AIO FNF Manager to manage your Mods!
 - **[Project Afternight](https://www.roblox.com/games/13042495892/UPDATE-1-Project-Afternight?gameSetTypeId=100000003&homePageSessionInfo=223769b7-a6fc-4f5b-9f54-9b62533814e2&isAd=false&numberOfLoadedTiles=3&page=homePage&placeId=13042495892&playContext=homePage&position=0&sortPos=2&universeId=4557322431)**: A RoFNF Game that I work on as a Developer!
 
--**[Rhythm Engine](https://github.com/MeguminBOT/Rhythm-Engine-Source)**: Helped with the Download Function!
+- **[Rhythm Engine](https://github.com/MeguminBOT/Rhythm-Engine-Source)**: Helped with the Download Function!
 - **[hxFileManager](https://lib.haxe.org/p/hxFileManager/)**: A library that helps with File Management using FileSystem and Haxe/C++
 - **[Hedgehog Chaos Demo!](https://github.com/HeroEyad/Hedgehog-Chaos-Demo)**: Sonic Memes Mod
 - **[HeroEyad.xyz](https://heroeyad.xyz/)**: My cool new website!
