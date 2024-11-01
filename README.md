@@ -8,6 +8,8 @@ I'm just a programmer navigating the world of code and creativity. Check out my 
 
 ![Top Languages I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroEyad)
 
+![Trophies]((https://github-profile-trophy.vercel.app/?username=HeroEyad&theme=dracula&no-frame=false&no-bg=true&margin-w=4))
+
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python,bootstrap,discord,nodejs,vscode,github,cpp&perline=7)
 
 ![](https://komarev.com/ghpvc/?username=HeroEyad)
