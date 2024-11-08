@@ -14,8 +14,6 @@ I'm just a programmer navigating the world of code and creativity. Check out my 
 
 ![](https://komarev.com/ghpvc/?username=HeroEyad)
 
-![More!](https://github-readme-streak-stats.herokuapp.com/?user=HeroEyad&theme=dark)
-
 ### 💫 About me!!!
 * 🏫 Just a `17` Year old in the `11th` grade.
 * 🌟 Goal is to achieve what is `Impossible` and make it `Possible` because it says `"I'm Possible"`.
