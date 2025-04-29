@@ -51,4 +51,4 @@ Here are a few projects I've been working/worked on:
 
 ---
 
-![Profile Banner](https://pbs.twimg.com/profile_banners/2418062057/1695131558/1080x360)
+![Profile Banner](https://cdn.discordapp.com/attachments/1357025713764565078/1360370686975283401/runningsaccurate.gif?ex=6811f1ae&is=6810a02e&hm=3073ca66bc43a7233e72a2040eaa81c5f059cac59b605acbe5fc561cafba5bb6&)
