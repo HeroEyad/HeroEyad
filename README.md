@@ -1,54 +1,79 @@
 # HeroEyad
 
-### Egyptian Programmer!
+### Hey there! I'm an Egyptian programmer who loves turning ideas into reality through code.
 
-I'm just a programmer navigating the world of code and creativity. Check out my GitHub stats and see what I've been working on!
+Welcome to my little corner of the internet! I’m just a 17-year-old student (currently in 11th grade) who's passionate about coding, game development, and creative problem-solving. Whether it's a random script, a full-on game, or just a cool experiment—I’m always building something.
 
-![Hero's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroEyad&show_icons=true)
+---
 
-![Top Languages I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroEyad)
+### **GitHub Stats**
+Wanna see what I've been up to? Here's a glimpse at my GitHub activity:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HeroEyad&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeroEyad&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroEyad)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=HeroEyad&theme=dracula&no-frame=false&no-bg=true&margin-w=4)  
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python,bootstrap,discord,nodejs,vscode,github,robloxstudio,cpp&perline=5)
+---
+
+### **Tech I Use**
+
+![Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python,bootstrap,discord,nodejs,vscode,github,robloxstudio,cpp&perline=5)
 
 ![](https://komarev.com/ghpvc/?username=HeroEyad)
 
-### 💫 About me!!!
-* 🏫 Just a `17` Year old in the `11th` grade.
-* 🌟 Goal is to achieve what is `Impossible` and make it `Possible` because it says `"I'm Possible"`.
-
-### 🌟 Connect with Me
-
-* [YouTube](https://www.youtube.com/c/HeroEyad) - Check out my tutorials and projects!
-* [Twitter](https://twitter.com/HeroEyad_) - Follow me for updates and thoughts on programming.
-* [GameBanana](https://gamebanana.com/members/1826250) - Explore my game mods and contributions.
-* [My Website](https://heroeyad.xyz/) - Visit my website!
-
-### 💻 My Projects
-Here are a few projects I've been working/worked on:
-- **[Funkin' Launcher](https://github.com/Funkin-Launcher-Team/FunkinLauncher)**: AIO FNF Manager to manage your Mods!
-- **[Project Afternight](https://www.roblox.com/games/13042495892/UPDATE-1-Project-Afternight?gameSetTypeId=100000003&homePageSessionInfo=223769b7-a6fc-4f5b-9f54-9b62533814e2&isAd=false&numberOfLoadedTiles=3&page=homePage&placeId=13042495892&playContext=homePage&position=0&sortPos=2&universeId=4557322431)**: A RoFNF Game that I work on as a Developer!
-
-- **[Rhythm Engine](https://github.com/MeguminBOT/Rhythm-Engine-Source)**: Helped with the Download Function!
-- **[hxFileManager](https://lib.haxe.org/p/hxFileManager/)**: A library that helps with File Management using FileSystem and Haxe/C++
-- **[Hedgehog Chaos Demo!](https://github.com/HeroEyad/Hedgehog-Chaos-Demo)**: Sonic Memes Mod
-- **[HeroEyad.xyz](https://heroeyad.xyz/)**: My cool new website!
-
-### 🎮 Interests
-- **Game Development**: Passionate about creating immersive experiences.
-- **Open Source Contribution**: I love collaborating with others and sharing knowledge.
-- **Coding Challenges**: Always up for a challenge to improve my skills!
-
-### 📝 My Coding Guidelines
-- **Open Source**: Feel free to use my open-source code! If you use one of my classes (the .hx file), just credit me in your special thanks.
-- **Privacy Matters**: If we work on a mod together and it's intended to be private, **DO NOT** share it, even with credit. I have zero tolerance for leaks!
-- **Ask First**: I always seek permission before making any mods open source.
 ---
 
-### 💖 Support Me
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6K2H51)
+### **About Me**
+- Still in school, but already knee-deep in code.
+- I believe the word “Impossible” literally says **“I’m Possible.”**  
+- I love working on cool stuff that blends creativity and logic.
+- Manager on **GameBanana** for:
+  - **Friday Night Funkin’**
+  - **Zenless Zone Zero**
+  - **Sonic 3 A.I.R**
+- Always open to learning something new or helping out where I can!
 
 ---
 
-![Profile Banner](https://cdn.discordapp.com/attachments/1357025713764565078/1360370686975283401/runningsaccurate.gif?ex=6811f1ae&is=6810a02e&hm=3073ca66bc43a7233e72a2040eaa81c5f059cac59b605acbe5fc561cafba5bb6&)
+### **Where to Find Me**
+- [YouTube](https://www.youtube.com/c/HeroEyad) – Tutorials, projects, and other cool videos.
+- [Twitter](https://twitter.com/HeroEyad_) – Thoughts, updates, and dev posts.
+- [GameBanana](https://gamebanana.com/members/1826250) – Check out my mods and curation work!
+- [My Website](https://heroeyad.xyz/) – Personal site and project hub.
+
+---
+
+### **Stuff I’ve Worked On**
+Here are some of the projects I'm most proud of:
+
+- **[Funkin' Launcher](https://github.com/Funkin-Launcher-Team/FunkinLauncher)** – An all-in-one FNF mod manager.
+- **[Project Afternight](https://www.roblox.com/games/13042495892/UPDATE-1-Project-Afternight)** – A RoFNF game I help develop.
+- **[Rhythm Engine](https://github.com/MeguminBOT/Rhythm-Engine-Source)** – I contributed to the download feature!
+- **[hxFileManager](https://lib.haxe.org/p/hxFileManager/)** – A handy Haxe/C++ file manager I made.
+- **[Hedgehog Chaos Demo](https://github.com/HeroEyad/Hedgehog-Chaos-Demo)** – A chaotic Sonic meme mod.
+- **[HeroEyad.xyz](https://heroeyad.xyz/)** – My personal website and playground.
+
+---
+
+### **What I’m Into**
+- **Game Dev** – Designing and coding new worlds.
+- **Open Source** – Love building things with the community.
+- **Coding Challenges** – Always looking to sharpen my skills.
+
+---
+
+### **My Rules**
+- Feel free to use my open-source code, just give credit if you use my `.hx` files!
+- If we’re working on something private, **please don’t leak it.**
+- Always ask before making anything I helped with public.
+
+---
+
+### **Support Me**
+If you like what I do and want to support me:
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6K2H51)
+
+---
+
+![Banner](https://cdn.discordapp.com/attachments/1357025713764565078/1360370686975283401/runningsaccurate.gif?ex=6811f1ae&is=6810a02e&hm=3073ca66bc43a7233e72a2040eaa81c5f059cac59b605acbe5fc561cafba5bb6&)
