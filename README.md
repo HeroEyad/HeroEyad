@@ -17,7 +17,7 @@ Wanna see what I've been up to? Here's a glimpse at my GitHub activity:
 
 ### **Tech I Use**
 
-![Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python,bootstrap,discord,nodejs,vscode,github,robloxstudio,cpp&perline=5)
+![Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python,bootstrap,discord,nodejs,vscode,github,robloxstudio,cpp,godot&perline=4)
 
 ![](https://komarev.com/ghpvc/?username=HeroEyad)
 
