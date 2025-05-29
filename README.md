@@ -76,4 +76,4 @@ If you like what I do and want to support me:
 
 ---
 
-![Banner](https://cdn.discordapp.com/attachments/1357025713764565078/1360370686975283401/runningsaccurate.gif?ex=6811f1ae&is=6810a02e&hm=3073ca66bc43a7233e72a2040eaa81c5f059cac59b605acbe5fc561cafba5bb6&)
+![Banner](https://pbs.twimg.com/media/Gr_TTr9XkAApEn1?format=png&name=small)
