@@ -2,7 +2,7 @@
 
 ### Hey there! I'm an Egyptian programmer who loves turning ideas into reality through code.
 
-Welcome to my little corner of the internet! I’m just a 17-year-old student (currently in 12th grade) who's passionate about coding, game development, and creative problem-solving. Whether it's a random script, a full-on game, or just a cool experiment—I’m always building something.
+So, welcome to my little backlink from the internet! Just a 17-year-old-grade-twelve student from Egypt who loves coding, game development, and creative problem solving. Anything from a quick script to a fully fledged game to a cool experiment, I am always working on something.
 
 ---
 
