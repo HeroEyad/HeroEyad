@@ -1,6 +1,6 @@
 # HeroEyad
 
-Hey! I'm **HeroEyad**, a 18-year-old Egyptian programmer and game dev. I love coding cool stuff—from scripts to full games.
+Hey! I'm **HeroEyad**, an 18-year-old Egyptian programmer and game dev. I love coding cool stuff—from scripts to full games.
 
 * 💻 Skilled in Haxe, Lua, JS, C++, Godot & more
 * 🎮 Dev on **Project Afternight**, **Funkin’ Launcher**, & other FNF mods
