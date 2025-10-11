@@ -9,7 +9,7 @@ Hey! I'm **HeroEyad**, an 18-year-old Egyptian programmer and game dev. I love c
 * ☕ [Support me on Ko-fi](https://ko-fi.com/V7V6K2H51)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeroEyad\&show_icons=true)
-![Skills](https://skillicons.dev/icons?i=js,html,css,haxe,haxeflixel,lua,windows,python,bootstrap,discord,nodejs,vscode,github,robloxstudio,cpp,godot&perline=4)
+![Skills](https://skillicons.dev/icons?i=js,html,css,haxe,lua,python,bootstrap,discord,nodejs,cpp,godot,java&perline=4)
 
 ---
 
